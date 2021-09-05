@@ -1,0 +1,3 @@
+Simo ti ho creato la cartella grafiche dove dentro ci piazza le immagini e gli svg.
+In questo blocco note scrivimi qualche linea guida, tipo le palette di colori per iniziare. 
+Una volta che mi avrai messo le grafiche nella cartella, butto giù un bozzetto.
